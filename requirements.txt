@@ -1,2 +1,2 @@
 streamlit
-webcam
+streamlit-webcam-example==0.1.0
